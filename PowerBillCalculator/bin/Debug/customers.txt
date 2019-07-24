@@ -1,0 +1,8 @@
+1,Shanice Talan,R,110
+2,Anne Toni,R,220
+3,SAIT,I,209
+4,Some Restaurant,C,195
+5,Meg Abigail,R,162
+6,Chip,C,285
+7,Antoni Mikhail,R,266
+9,Adobo Experience,C,240
